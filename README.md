@@ -61,12 +61,6 @@ Durante o projeto foram desenvolvidas medidas para cálculo de indicadores finan
 
 ---
 
-## 🖼 Dashboard
-
-*Adicione aqui uma imagem do dashboard.*
-
----
-
 ## 💡 Aprendizados
 
 Este projeto permitiu aprofundar conhecimentos em modelagem de dados, Power Query, criação de medidas DAX, construção de KPIs e desenvolvimento de dashboards voltados para análise financeira e apoio à tomada de decisão.
