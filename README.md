@@ -1,5 +1,7 @@
 # 📊 Dashboard DRE – Realizado x Meta | Power BI
 
+![Dashboard DRE](Dashboard.png)
+
 > Dashboard desenvolvido em Power BI para análise do Demonstrativo de Resultado do Exercício (DRE), utilizando DAX, Power Query e Modelagem de Dados.
 
 ---
